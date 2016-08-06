@@ -1,0 +1,46 @@
+_repo: Ghost-Stories-of-an-Antiquary-Part-2--More-Ghost-Stories_9629
+_version: 0.0.1
+creator:
+  author:
+    agent_name: James, M. R. (Montague Rhodes)
+    aliases:
+    - James, M.R.
+    - James, Montague Rhodes
+    birthdate: 1862
+    deathdate: 1936
+    gutenberg_agent_id: '2768'
+    url: http://www.gutenberg.org/2009/agents/2768
+    wikipedia: http://en.wikipedia.org/wiki/M._R._James
+description: "More Ghost Stories is the title of M. R. James's second collection of\
+  \ ghost stories, published in 1911. Some later editions under the title Ghost Stories\
+  \ of an Antiquary contain it and the earlier Ghost Stories of an Antiquary in one\
+  \ volume.\nMontague Rhodes James (1862–1936) was a medievalist scholar; Provost\
+  \ of King's College, Cambridge. He wrote many of his ghost stories to be read aloud\
+  \ in the long tradition of spooky Christmas Eve tales. His stories often use rural\
+  \ settings, with a quiet, scholarly protagonist getting caught up in the activities\
+  \ of supernatural forces. The details of horror are almost never explicit, the stories\
+  \ relying on a gentle, bucolic background to emphasise the awfulness of the otherworldly\
+  \ intrusions.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Horror
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9629'
+  wikidata: Q17016858
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horror tales, English'
+- !lcc 'PR'
+- !lcsh 'Short stories, English'
+- !lcsh 'Ghost stories, English'
+- GITenberg
+tableOfContents: A school story -- The rose garden -- The tractate Middoth -- Casting
+  the runes -- The stalls of Barchester Cathedral -- Martin's Close -- Mr. Humphreys
+  and his inheritance.
+title: 'Ghost Stories of an Antiquary Part 2: More Ghost Stories'
+url: http://www.gutenberg.org/ebooks/9629
+wikipedia:
+- https://en.wikipedia.org/wiki/More_Ghost_Stories
