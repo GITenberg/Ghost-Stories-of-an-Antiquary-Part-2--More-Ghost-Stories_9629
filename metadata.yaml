@@ -1,5 +1,8 @@
 _repo: Ghost-Stories-of-an-Antiquary-Part-2--More-Ghost-Stories_9629
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: James, M. R. (Montague Rhodes)
@@ -21,6 +24,8 @@ description: "More Ghost Stories is the title of M. R. James's second collection
   \ of supernatural forces. The details of horror are almost never explicit, the stories\
   \ relying on a gentle, bucolic background to emphasise the awfulness of the otherworldly\
   \ intrusions.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9629#Ghost-Stories-of-an-Antiquary-Part-2--More-Ghost-Stories
 gutenberg_bookshelf: Horror
 gutenberg_issued: '2006-01-01'
 gutenberg_type: Text
